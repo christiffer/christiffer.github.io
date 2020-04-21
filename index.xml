@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Chris Andrews</title>
-    <link>http://christiffer.github.io/</link>
+    <link>https://christiffer.github.io/</link>
     <description>Recent content on Chris Andrews</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     
-	<atom:link href="http://christiffer.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://christiffer.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
